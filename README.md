@@ -9,7 +9,9 @@ Tiedosto [force-directed-data.json](./d3/force-directed-data.json) sisältää d
 ```javascript
 data = JSON.parse(`<data>`);
 ```
-jossa `<data>` on force-directed-data.json -tiedoston sisältö.
+jossa `<data>` on force-directed-data.json -tiedoston sisältö. Vaihtoehtoisesti alkuperäisen json-tiedoston voi myös korvata samasta kohdasta klikkaamalla paperiliittimen kuvaa ja lataamalla uuden json-tiedoston.
+
+Tiedoston [color-example.json](./d3/color-example.json) piirtäminen tapahtuu samalla tavalla. Kandidaatintyössä nähtäviä versioita on muokattu [Figmalla](https://www.figma.com/).
 
 ## Muut visualisoinnit
 Kuva [tiedostoselain.svg](tiedostoselain.svg) on piirretty [Figma](https://www.figma.com/)-työkalulla.
